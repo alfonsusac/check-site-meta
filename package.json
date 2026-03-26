@@ -1,7 +1,7 @@
 {
   "name": "check-site-meta",
   "description": "Check site meta tags locally",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "type": "module",
   "bin": {
     "check-site-meta": "./bin/check-site-meta.js"

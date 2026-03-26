@@ -1,4 +1,7 @@
 export const changelog = {
+  "0.3.9": [
+    "Updated to next 16"
+  ],
   "0.3.8": [
     "Added more information for hosted page.",
     "Added support for multiple authors.",
