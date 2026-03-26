@@ -1,6 +1,5 @@
 "use client"
 
-import Script from "next/script";
 import { useEffect, useRef, useState, type SVGProps } from "react";
 import { TabList } from "./module/tab/TabRoot";
 import { tab } from "./module/tab/tab-primitives";

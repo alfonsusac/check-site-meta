@@ -54,7 +54,7 @@ export function serializeError(error: unknown) {
     }
   }
   return parsedError
-}
+} 
 
 export class AppError extends Error {
 
